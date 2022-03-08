@@ -1,0 +1,92 @@
+.alpha {
+    color: red;
+    text-align: right;
+    position: relative;
+    right: 50%;
+}
+
+.beta {
+    color: orange;
+    text-align: left;
+    position: relative;
+    left: 50%;
+}
+
+.gamma {
+    color: yellow;
+    text-align: right;
+    position: relative;
+    right: 50%;
+}
+
+
+.omega {
+    color: green;
+    text-align: left;
+    position: relative;
+    left: 50%;
+}
+
+.theta {
+    color: aqua;
+    text-align: right;
+    position: relative;
+    right: 50%;
+}
+
+.delta {
+    color: blue;
+    text-align: left;
+    position: relative;
+    left: 50%;
+}
+
+.pi {
+    color: navy;
+    text-align: right;
+    position: relative;
+    right: 50%;
+}
+
+.mu {
+    color: blueviolet;
+    text-align: left;
+    position: relative;
+    left: 50%;
+}
+
+.sigma {
+    color:darkorchid;
+    text-align: right;
+    position: relative;
+    right: 50%;
+}
+
+.lambda {
+    color: darkmagenta;
+    text-align: left;
+    position: relative;
+    left: 50%;
+}
+
+.rho {
+    color: darkslateblue;
+    text-align: right;
+    position: relative;
+    right: 50%;
+}
+
+button {
+    background-color: white;
+    border: none;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    height: 50px;
+    width: 100px;
+    margin: 0;
+    position: relative;
+    left: 50%;
+}

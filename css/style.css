@@ -1,0 +1,332 @@
+h3 {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+body {
+    background-image: url("../Background.jpg");
+}
+
+.Eichi {
+    background-color: #fff3b7;
+    border: none;
+    color: #fff3b7;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    height: 100px;
+    width: 100px;
+}
+
+.Shinobu { 
+    background-color: #fedc00;
+    border: none;
+    color: #fedc00;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    height: 100px;
+    width: 100px;
+}
+
+.Aira { 
+    background-color: #fff0cf;
+    border: none;
+    color: #fff0cf;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    height: 100px;
+    width: 100px;
+}
+
+.Tomoya {
+    background-color: #efddb3;
+    border: none;
+    color: #efddb3;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    height: 100px;
+    width: 100px;
+}
+
+.Kaoru {
+    background-color: #fdd25d;
+    border: none;
+    color: #fdd25d;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    height: 100px;
+    width: 100px;
+}
+
+.Kuro {
+    background-color: #e83929;
+    border: none;
+    color: #e83929;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    height: 100px;
+    width: 100px;
+}
+
+.Subaru {
+    background-color: #f4981c;
+    border: none;
+    color: #f4981c;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    height: 100px;
+    width: 100px;
+}
+
+.Mao {
+    background-color: #951e56;
+    border: none;
+    color: #951e56;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    height: 100px;
+    width: 100px;
+}
+
+.Nagisa {
+    background-color: #a73736;
+    border: none;
+    color: #a73736;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    height: 100px;
+    width: 100px;
+}
+
+.Leo {
+    background-color: #ed6d52;
+    border: none;
+    color: #ed6d52;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    height: 100px;
+    width: 100px;
+}
+
+.Hokuto {
+    background-color: #0067b6;
+    border: none;
+    color: #0067b6;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    height: 100px;
+    width: 100px;
+}
+
+.Kanata {
+    background-color: #008eb6;
+    border: none;
+    color: #008eb6;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    height: 100px;
+    width: 100px;
+}
+ 
+.HiMERU {
+    background-color: #8ac3eb;
+    border: none;
+    color: #8ac3eb;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    height: 100px;
+    width: 100px;
+}
+
+.Izumi {
+    background-color: #badbf2;
+    border: none;
+    color: #badbf2;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    height: 100px;
+    width: 100px;
+}
+
+.Ritsu {
+    background-color: #001e44;
+    border: none;
+    color: #001e44;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    height: 100px;
+    width: 100px;
+}
+
+.Hasumi {
+    background-color: #316645;
+    border: none;
+    color: #316645;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    height: 100px;
+    width: 100px;
+}
+
+.Mika {
+    background-color: #006a6d;
+    border: none;
+    color: #006a6d;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    height: 100px;
+    width: 100px;
+}
+
+.Hiyori {
+    background-color: #b7d201;
+    border: none;
+    color: #b7d201;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    height: 100px;
+    width: 100px;
+}
+
+.Tatsumi {
+    background-color: #7ebda6;
+    border: none;
+    color: #7ebda6;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    height: 100px;
+    width: 100px;
+}
+
+.Makoto {
+    background-color: #65ab31;
+    border: none;
+    color: #65ab31;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    height: 100px;
+    width: 100px;
+}
+
+.Ibara {
+    background-color: #74325d;
+    border: none;
+    color: #74325d;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    height: 100px;
+    width: 100px;
+}
+
+.Mayoi {
+    background-color: #522f5f;
+    border: none;
+    color: #522f5f;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    height: 100px;
+    width: 100px;
+}
+
+.Rei {
+    background-color: #46266e;
+    border: none;
+    color: #46266e;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    height: 100px;
+    width: 100px;
+}
+
+.Hajime {
+    background-color: #cbb8d9;
+    border: none;
+    color: #cbb8d9;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    height: 100px;
+    width: 100px;
+}
+
+.Kanzaki {
+    background-color: #5554a2;
+    border: none;
+    color: #5554a2;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    height: 100px;
+    width: 100px;
+}
+
+.Unlucky {
+    background-color: black;
+    border: none;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    height: 100px;
+    width: 100px;
+    margin: 0;
+    position: relative;
+    left: 50%;
+}
+
+.Trickstar, .Valkyrie, .ALKALOID, .Knights, .fine {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

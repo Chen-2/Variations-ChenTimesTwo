@@ -1,0 +1,34 @@
+.Trickstar {
+    color: aqua;
+}
+
+.Valkyrie {
+    color: green;
+}
+
+.Knights {
+    color: darkgreen;
+}
+
+.ALKALOID {
+    color: olive;
+}
+
+.fine {
+    color: mediumseagreen;
+}
+
+button {
+    background-color: white;
+    border: none;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    height: 50px;
+    width: 100px;
+    margin: 0;
+    position: relative;
+    left: 50%;
+}

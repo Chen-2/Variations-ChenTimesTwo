@@ -1,0 +1,49 @@
+@keyframes Trickstar {
+    from {color: red;}
+    to {color: yellow;}
+  }
+  
+h1 {
+    color: red;
+    animation-name: Trickstar;
+    animation-duration: 4s;
+  }
+
+
+body {
+    height: 3000px; /* Used to enable scrolling */
+    background: linear-gradient(55deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 85%);
+    /*background: linear-gradient(55deg, #0fb8ad 0%, #1fc8db 51%, red 85%);*/
+}
+
+h6 {
+    height: 100px;
+    animation-name: Valkyrie;
+    animation-duration: 8s;
+}
+
+@keyframes Valkyrie {
+    from {background-color: brown;}
+    to {background-color: wheat;
+        color: navy;}
+}
+
+h1,h2,h3,h4,h5 {
+    height: 30px;
+    color: linear-gradient(#d595d1, #309ea2 51%, #c68015 85%);
+}
+
+button {
+    background-color: white;
+    border: none;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    height: 50px;
+    width: 100px;
+    margin: 0;
+    position: relative;
+    left: 50%;
+}

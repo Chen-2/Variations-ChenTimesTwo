@@ -1,0 +1,46 @@
+em {
+    display: none;
+}
+
+big {
+    display: block;
+}
+
+li {
+    /*display: inline-block;*/
+    /*display: flow-root;
+    float: right;*/
+    display: inline;
+}
+
+small {
+    display: block;
+    float: inherit;
+}
+
+.Trickstar {
+    /*width: 300px;
+    height: 300px;*/
+    width: auto;
+    height: auto;
+    float: right;
+    position: inline;
+    border: 10px;
+    border-style: double;
+    border-color: navy;
+}
+
+button {
+    background-color: white;
+    border: none;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    height: 50px;
+    width: 100px;
+    margin: 0;
+    position: relative;
+    left: 50%;
+}

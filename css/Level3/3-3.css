@@ -1,0 +1,107 @@
+.alpha {
+    /*padding-left: auto;
+    padding-right: auto;
+    height: 100px*/
+    color: red;
+    width: 100px;
+}
+
+.beta {
+    color: orange;
+    /*padding-right: 25px;*/
+    width: 150px;
+    float: right;
+    position: relative;
+    right: 25px;
+
+}
+
+.gamma {
+    color: yellow;
+    /*padding-left: 50px;*/
+    width: 200px;
+    position: relative;
+    left: 50px;
+}
+
+
+.omega {
+    color: green;
+    /*padding-right: 75px;*/
+    width: 250px;
+    float: right;
+    position: relative;
+    right: 75px;
+}
+
+.theta {
+    color: aqua;
+    /*padding-left: 100px;*/
+    width: 300px;
+    position: relative;
+    left: 100px;
+}
+
+.delta {
+    color: blue;
+    /*padding-right: 125px;*/
+    width: 350px;
+    float: right;
+    position: relative;
+    right: 125px;
+}
+
+.pi {
+    color: navy;
+    /*padding-left: 100px;*/
+    width: 400px;
+    position: relative;
+    left: 100px;
+}
+
+.mu {
+    color: blueviolet;
+    /*padding-right: 75px;*/
+    width: 450px;
+    float: right;
+    position: relative;
+    right: 75px;
+}
+
+.sigma {
+    color:darkorchid;
+    /*padding-left: 50px;*/
+    width: 500px;
+    position: relative;
+    left: 50px;
+}
+
+.lambda {
+    color: darkmagenta;
+    /*padding-right: 25px;*/
+    width: 550px;
+    float: right;
+    position: relative;
+    right: 25px;
+}
+
+.rho {
+    color: darkslateblue;
+    width: 600px;
+    position: relative;
+}
+
+button {
+    background-color: white;
+    border: none;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    height: 50px;
+    width: 100px;
+    margin: 0;
+    position: relative;
+    left: 50%;
+}

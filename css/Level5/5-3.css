@@ -1,0 +1,79 @@
+@keyframes Trickstar {
+    from {color: red;}
+    to {color: yellow;}
+  }
+  
+h1 {
+    color: red;
+    animation-name: Trickstar;
+    animation-duration: 4s;
+  }
+
+
+
+@keyframes Valkyrie {
+    from {font-family: Verdana, Geneva, Tahoma, sans-serif;}
+    to {font-family: 'Courier New', Courier, monospace;
+        font-size: 50px;}
+  }
+  
+h2:hover {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    animation-name: Valkyrie;
+    animation-duration: 4s;
+  }
+
+
+/*@keyframes ALKALOID {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(180deg);
+    }
+  }*/
+
+/*h3 {
+      transition: rotation 2s infinite;
+  }*/
+
+.gamma:hover {
+    transform: rotate(75deg) /*2s infinite*/;
+    animation-duration: 6s; /*?*/
+}
+
+/*h3:hover does not work*/
+
+
+mu {
+    margin: auto;
+    animation-name: ALKALOID;
+    animation-duration: 8s;
+}
+
+@keyframes ALKALOID {
+    from {
+        margin: auto;
+    }
+    to {
+        margin-left: 20px;
+        margin-top: 40px;
+        margin-bottom: 60px;
+        margin-right: 80px;
+    }
+}
+
+button {
+  background-color: white;
+  border: none;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  height: 50px;
+  width: 100px;
+  margin: 0;
+  position: relative;
+  left: 50%;
+}

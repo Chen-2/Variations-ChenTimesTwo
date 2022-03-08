@@ -1,0 +1,50 @@
+Level 1
+- <*p>*
+- <*br>*
+- *&nbsp;*
+
+level 2
+- *div*
+- *h1, h2, h3, h4, h5, h6*
+- *strong*
+- *em*
+- *big*
+- *small*
+- *ol*
+- *ul*
+- *li*
+
+Level 3
+- *padding*
+- *margin*
+- *border*
+- *height, width*
+- *position*
+- *top, right, bottom, left*
+- *display*
+- *float*
+- *color*
+
+Level 4
+- *font-family*
+- *font-weight*
+- *font-size*
+- *text-align*
+- *line-height*
+- *letter-spacing*
+- *text-transform*
+
+/* The animation code */
+@keyframes example {
+  from {background-color: red;}
+  to {background-color: yellow;}
+}
+
+/* The element to apply the animation to */
+div {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  animation-name: example;
+  animation-duration: 4s;
+}
